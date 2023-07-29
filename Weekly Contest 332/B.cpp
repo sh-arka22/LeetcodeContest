@@ -15,3 +15,4 @@ public:
         return countSmaller(nums, upper) - countSmaller(nums, lower-1);
     }
 };
+//updated
